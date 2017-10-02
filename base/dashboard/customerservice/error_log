@@ -1,0 +1,8 @@
+[30-Sep-2017 16:16:33 America/Denver] PHP Notice:  Undefined index: userfile in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 31
+[30-Sep-2017 16:16:33 America/Denver] PHP Warning:  fopen(): Filename cannot be empty in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 36
+[30-Sep-2017 16:16:33 America/Denver] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 37
+[30-Sep-2017 16:16:33 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 39
+[30-Sep-2017 16:19:25 America/Denver] PHP Notice:  Undefined index: userfile in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 31
+[30-Sep-2017 16:19:25 America/Denver] PHP Warning:  fopen(): Filename cannot be empty in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 36
+[30-Sep-2017 16:19:25 America/Denver] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 37
+[30-Sep-2017 16:19:25 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/dotskeny/public_html/system/base/dashboard/customerservice/newoutsource.php on line 39
